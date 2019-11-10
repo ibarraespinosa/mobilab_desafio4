@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573353503439.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B74AAC0C",
+    "lastKnownWriteTime" : 1573386566,
+    "last_content_update" : 1573386566476,
+    "path" : "~/Documents/radartona/analizing_v7.R",
+    "project_path" : "analizing_v7.R",
+    "properties" : {
+        "cursorPosition" : "40,11",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
