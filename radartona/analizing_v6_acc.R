@@ -7,8 +7,8 @@ library("ggmap")
 acc <- read.csv("/media/sergio/ext4/MOBILAB/02) CET_Acidentes_SAT/Acidentes2018_Fev.csv", stringsAsFactors = F)
 acc <- acc[!is.na(acc$longitude), ]
 acc$time <- as.POSIXct(paste(acc$data, acc$hora), format = "%d/%m/%Y %H:%M", tz = "America/Sao_Paulo")
-
-register_google("AIzaSyBxC0gVDlL_Cl8okSRYtogoA6YoIagmdRQ")
+GOOGLE_API <- "API"
+register_google(GOOGLE_API)
 map_sf <- get_map('Sao Paulo', zoom = 11, maptype = 'satellite')
 ggmap(map_sf) + 
   labs(title = 'Atropelamentos em  Sao Paulo') +
