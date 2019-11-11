@@ -2,10 +2,10 @@ Apresentação da radartona CET 2019 no [MOBILAB+](http://mobilab.prefeitura.sp.
 
 WE:
 
-![WE](https://raw.githubusercontent.com/ibarraespinosa/mobilab_desafio4/master/docs/all.jpeg)
+![WE](https://raw.githubusercontent.com/ibarraespinosa/mobilab_desafio4/master/docs/fotos/all.jpeg)
 
 
-![sleep](https://raw.githubusercontent.com/ibarraespinosa/mobilab_desafio4/master/docs/sleep.jpeg)
+![sleep](https://raw.githubusercontent.com/ibarraespinosa/mobilab_desafio4/master/docs/fotos/sleep.jpeg)
 
 
 Source
