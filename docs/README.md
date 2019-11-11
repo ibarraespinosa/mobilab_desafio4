@@ -1,5 +1,4 @@
-Apresentação da minha premiação de Doutorado 2018IAG/USP
-[https://ibarraespinosa.github.io/2018_IAG/#/step-28](https://ibarraespinosa.github.io/2018_IAG/#/step-28)
+Apresentação da radartona CET 2019 no [MOBILAB+](http://mobilab.prefeitura.sp.gov.br/)
 
 Source
 ---------------------
